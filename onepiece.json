@@ -3,25 +3,25 @@
   "jieshao":"三个猪脚boss",
   "members" : [
     {
-    "name":"蒙奇·D·路飞",
-    "age":"19岁",
-    "power":"超人系橡胶果实",
-    "hobby":"肉",
-    "dream":"找到ONE PIECE，成为海贼王"
+    "lfname":"蒙奇·D·路飞",
+    "lfage":"19岁",
+    "lfpower":"超人系橡胶果实",
+    "lfhobby":"肉",
+    "lfdream":"找到ONE PIECE，成为海贼王"
     },
     {
-    "name":"罗罗诺亚·索隆",
-    "age":"21岁",
-    "power":"三刀流",
-    "hobby":"睡觉、修炼、喝酒",
-    "dream":"世界第一大剑豪"
+    "slname":"罗罗诺亚·索隆",
+    "slage":"21岁",
+    "slpower":"三刀流",
+    "slhobby":"睡觉、修炼、喝酒",
+    "sldream":"世界第一大剑豪"
     },
     {
-    "name":"特拉法尔加·罗",
-    "age":"26岁",
-    "power":"手术果实",
-    "hobby":"烤鱼",
-    "dream":"打败多弗朗明哥"
+    "asname":"特拉法尔加·罗",
+    "asage":"26岁",
+    "aspower":"手术果实",
+    "ashobby":"烤鱼",
+    "asdream":"打败多弗朗明哥"
     }
   ]
 }
